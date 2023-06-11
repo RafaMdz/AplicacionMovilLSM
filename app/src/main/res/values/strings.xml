@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AplicacionMovilLSM</string>
+    <string name="indice">Lecciones</string>
+    <string name="lec1">La decena</string>
+    <string name="lec2">Hasta el 15</string>
+    <string name="lec3">Hasta el 30</string>
+    <string name="lec4">Hasta el 50</string>
+    <string name="lec5">Estrategias de suma y resta</string>
+    <string name="actividad">Ingresar actividad de leccion</string>
+    <string name="ejemplo">Ver ejemplo de señas</string>
+    <string name="pregunta">Ver señas de la pregunta</string>
+    <string name="prueba">Ingresar prueba de leccion</string>
+    <string name="salir">Menu</string>
+    <string name="texto">Ejemplo</string>
+    <string name="title_activity_actividad">Actividad</string>
+    <string name="camara">Activar camara</string>
+    <string name="ejemploSeña">Ver señas de la enseñanaza</string>
+</resources>
